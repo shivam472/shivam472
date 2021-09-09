@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Shivam Pandey
-- 👀 I’m interested in learning full stack web development
-- 🌱 I’m currently learning React.js
-- 💞️ I’m looking to collaborate on projects related to web development
+- 👋 Hi, I’m Shivam Pandey.
+- 🌱 I’m a react developer.
+- 👀 I’m interested in learning app development.
+- 💞️ I’m looking to collaborate on projects related to web development.
 - 📫 Reach me at shivamraj472@gmail.com
 
 <!---
